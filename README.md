@@ -3,6 +3,7 @@ Business-Profit-Calculator
 A business-focused JavaScript project designed to calculate product pricing, profit margins, discounts, sales tax, and break-even analysis using variables, expressions, and primitive data types. This project demonstrates foundational programming concepts through a realistic business operations scenario.
 
 Technologies Used
+
 Javascript,
 HTML,
 CSS,
